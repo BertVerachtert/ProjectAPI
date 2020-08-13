@@ -1,0 +1,16 @@
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\bin\Debug\netcoreapp2.2\ProjectAPI.deps.json
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\bin\Debug\netcoreapp2.2\ProjectAPI.runtimeconfig.json
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\bin\Debug\netcoreapp2.2\ProjectAPI.runtimeconfig.dev.json
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\bin\Debug\netcoreapp2.2\ProjectAPI.dll
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\bin\Debug\netcoreapp2.2\ProjectAPI.pdb
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.csprojAssemblyReference.cache
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.RazorAssemblyInfo.cache
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.RazorAssemblyInfo.cs
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.AssemblyInfoInputs.cache
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.AssemblyInfo.cs
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.RazorTargetAssemblyInfo.cache
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.dll
+D:\Documenten\3Bac\Angular\Project\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.pdb
